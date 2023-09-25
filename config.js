@@ -67,7 +67,7 @@ const CONFIG = {
 			id: '3',
 			name: 'Discord',
 			icon: 'messages-square',
-			link: 'https://discord.gg',
+			link: 'https://discord.com/channels/@me',
 		},
 		{
 			id: '4',
