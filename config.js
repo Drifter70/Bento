@@ -161,20 +161,20 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'Luke The Notable',
+					link: 'https://twitter.com/lukethenotable',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'Glytch',
+					link: 'https://twitter.com/glytchtech',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'Wolfgang',
+					link: 'https://tilde.zone/@notthebee',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'Parabolize',
+					link: 'https://www.reddit.com/user/parabolize/',
 				},
 			],
 		},
@@ -209,8 +209,8 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Front',
-					link: 'https://www.reddit.com/r/Frontend/',
+					name: 'Unixporn',
+					link: 'https://www.reddit.com/r/unixporn/',
 				},
 				{
 					name: 'Rust',
@@ -222,7 +222,7 @@ const CONFIG = {
 				},
 				{
 					name: 'Repos',
-					link: 'https://github.com/migueravila',
+					link: 'https://github.com/drifter70',
 				},
 			],
 		},
