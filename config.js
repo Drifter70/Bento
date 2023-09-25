@@ -65,27 +65,27 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'Todoist',
-			icon: 'trello',
-			link: 'https://todoist.com',
+			name: 'Discord',
+			icon: 'messages-square',
+			link: 'https://discord.gg',
 		},
 		{
 			id: '4',
-			name: 'Calendar',
-			icon: 'calendar',
-			link: 'https://calendar.google.com/calendar/r',
+			name: 'Monkeytype',
+			icon: 'keyboard',
+			link: 'https://monkeytype.com',
 		},
 		{
 			id: '5',
 			name: 'Reddit',
-			icon: 'glasses',
+			icon: 'arrow-big-up',
 			link: 'https://reddit.com',
 		},
 		{
 			id: '6',
 			name: 'YouTube',
 			icon: 'youtube',
-			link: 'https://odysee.com/',
+			link: 'https://youtube.com/',
 		},
 	],
 
@@ -112,7 +112,7 @@ const CONFIG = {
 			id: '4',
 			name: 'Amazon',
 			icon: 'shopping-bag',
-			link: 'https://amazon.com/',
+			link: 'https://amazon.ca/',
 		},
 		{
 			id: '5',
@@ -135,7 +135,7 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'Shopping',
+			icon: 'shopping-bag',
 			id: '1',
 			links: [
 				{
@@ -151,7 +151,7 @@ const CONFIG = {
 					link: 'https://ebay.ca',
 				},
 				{
-					name: 'Rock',
+					name: 'Steam',
 					link: 'https://store.steampowered.com/',
 				},
 			],
