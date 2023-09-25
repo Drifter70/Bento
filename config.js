@@ -79,7 +79,7 @@ const CONFIG = {
 			id: '5',
 			name: 'Reddit',
 			icon: 'arrow-big-up',
-			link: 'https://reddit.com',
+			link: 'https://reddit.com/r/unixporn',
 		},
 		{
 			id: '6',
