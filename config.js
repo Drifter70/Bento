@@ -158,7 +158,7 @@ const CONFIG = {
 		},
 		{
 			icon: 'shopping-bag',
-			id:2
+			id: '2',
 			links: [
 				{
 					name: 'Amazon',
