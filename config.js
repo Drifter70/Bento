@@ -134,31 +134,10 @@ const CONFIG = {
 
 	// First Links Container
 	firstlistsContainer: [
-		{
-			icon: 'shopping-bag',
-			id: '1',
-			links: [
-				{
-					name: 'Amazon',
-					link: 'https://amazon.ca',
-				},
-				{
-					name: 'Memory Express',
-					link: 'https://www.memoryexpress.com',
-				},
-				{
-					name: 'Ebay',
-					link: 'https://ebay.ca',
-				},
-				{
-					name: 'Steam',
-					link: 'https://store.steampowered.com/',
-				},
-			],
-		},
+
 		{
 			icon: 'coffee',
-			id: '2',
+			id: '1',
 			links: [
 				{
 					name: 'Music Playlist',
@@ -179,7 +158,29 @@ const CONFIG = {
 			],
 		},
 	],
-
+	{
+			icon: 'shopping-bag',
+			id: '2',
+			links: [
+				{
+					name: 'Amazon',
+					link: 'https://amazon.ca',
+				},
+				{
+					name: 'Memory Express',
+					link: 'https://www.memoryexpress.com',
+				},
+				{
+					name: 'Ebay',
+					link: 'https://ebay.ca',
+				},
+				{
+					name: 'Steam',
+					link: 'https://store.steampowered.com/',
+				},
+			],
+		],
+	},
 	// Second Links Container
 	secondListsContainer: [
 		{
