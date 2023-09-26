@@ -65,9 +65,9 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'Discord',
-			icon: 'messages-square',
-			link: 'https://discord.com/channels/@me',
+			name: 'Based Cooking',
+			icon: 'chef-hat',
+			link: 'https://based.cooking',
 		},
 		{
 			id: '4',
