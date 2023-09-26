@@ -67,9 +67,9 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'Based Cooking',
-			icon: 'chef-hat',
-			link: 'https://based.cooking',	
+			name: 'Pirate',
+			icon: 'waves',
+			link: 'https://ripped.guide/PC-Software/Games/',	
 		},
 		{
 			id: '4',
