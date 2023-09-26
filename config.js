@@ -178,7 +178,8 @@ const CONFIG = {
 				},
 			],
 		},
-
+	],
+	
 	// Second Links Container
 	secondListsContainer: [
 		{
