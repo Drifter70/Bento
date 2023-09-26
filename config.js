@@ -77,15 +77,15 @@ const CONFIG = {
 		},
 		{
 			id: '5',
-			name: 'Reddit',
-			icon: 'arrow-big-up',
-			link: 'https://reddit.com/r/unixporn',
+			name: 'Download',
+			icon: 'download',
+			link: 'chrome://downloads/',
 		},
 		{
 			id: '6',
-			name: 'YouTube',
-			icon: 'youtube',
-			link: 'https://youtube.com/',
+			name: 'Bookmarks',
+			icon: 'bookmark',
+			link: 'chrome://bookmarks/',
 		},
 	],
 
