@@ -104,9 +104,9 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'Discord',
-			icon: 'discord',
-			link: 'https://discord.gg',
+			name: 'Based Cooking',
+			icon: 'chef-hat',
+			link: 'https://based.cooking',
 		},
 		{
 			id: '4',
