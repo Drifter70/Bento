@@ -77,15 +77,15 @@ const CONFIG = {
 		},
 		{
 			id: '5',
-			name: 'Download',
-			icon: 'download',
-			link: 'chrome://downloads/',
+			name: 'OMV',
+			icon: 'server',
+			link: 'http://intel.local/#/login',
 		},
 		{
 			id: '6',
-			name: 'Bookmarks',
-			icon: 'bookmark',
-			link: 'chrome://bookmarks/',
+			name: 'Proxmox',
+			icon: 'monitor-dot',
+			link: 'http://192.168.11.48:8006/',
 		},
 	],
 
