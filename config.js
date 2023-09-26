@@ -161,20 +161,20 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Luke The Notable',
-					link: 'https://twitter.com/lukethenotable',
+					name: 'Music Playlist',
+					link: 'https://www.youtube.com/playlist?list=PLdcgBq2eMCShra99iGMUaeIZgReRQUsLu',
 				},
 				{
-					name: 'Glytch',
-					link: 'https://twitter.com/glytchtech',
+					name: 'Hollow Knight',
+					link: 'https://www.youtube.com/watch?v=KmVAlebjtmg',
 				},
 				{
-					name: 'Wolfgang',
-					link: 'https://tilde.zone/@notthebee',
+					name: 'UpBeat Jazz',
+					link: 'https://www.youtube.com/watch?v=cZGK-dfSTE4',
 				},
 				{
-					name: 'Parabolize',
-					link: 'https://www.reddit.com/user/parabolize/',
+					name: 'Tokyo Jazz',
+					link: 'https://www.youtube.com/watch?v=yTpQPs2GUVA',
 				},
 			],
 		},
