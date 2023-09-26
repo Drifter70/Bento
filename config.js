@@ -52,28 +52,30 @@ const CONFIG = {
 
 	firstButtonsContainer: [
 		{
-			id: '1',
-			name: 'Github',
-			icon: 'github',
-			link: 'https://github.com/',
-		},
-		{
-			id: '2',
+			id: '1',			
+
 			name: 'Mail',
 			icon: 'mail',
 			link: 'https://gmail.com/',
+
+		},
+		{
+			id: '2',
+			name: 'Monkeytype',
+			icon: 'keyboard',
+			link: 'https://monkeytype.com',
 		},
 		{
 			id: '3',
 			name: 'Based Cooking',
 			icon: 'chef-hat',
-			link: 'https://based.cooking',
+			link: 'https://based.cooking',	
 		},
 		{
 			id: '4',
-			name: 'Monkeytype',
-			icon: 'keyboard',
-			link: 'https://monkeytype.com',
+			name: 'Github',
+			icon: 'github',
+			link: 'https://github.com/',
 		},
 		{
 			id: '5',
