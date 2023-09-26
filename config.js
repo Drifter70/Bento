@@ -134,51 +134,50 @@ const CONFIG = {
 
 	// First Links Container
 	firstlistsContainer: [
-	{
-		icon: 'coffee',
-		id: '1',
-		links: [
-			{
-				name: 'Music Playlist',
-				link: 'https://www.youtube.com/playlist?list=PLdcgBq2eMCShra99iGMUaeIZgReRQUsLu',
-			},
-			{
-				name: 'Hollow Knight',
-				link: 'https://www.youtube.com/watch?v=KmVAlebjtmg',
-			},
-			{
-				name: 'UpBeat Jazz',
-				link: 'https://www.youtube.com/watch?v=cZGK-dfSTE4',
-			},
-			{
-				name: 'Tokyo Jazz',
-				link: 'https://www.youtube.com/watch?v=yTpQPs2GUVA',
-			},
-		],
-	},
-	{
+		{
+			icon: 'coffee',
+			id: '1',
+			links: [
+				{
+					name: 'Music Playlist',
+					link: 'https://www.youtube.com/playlist?list=PLdcgBq2eMCShra99iGMUaeIZgReRQUsLu',
+				},
+				{
+					name: 'Hollow Knight',
+					link: 'https://www.youtube.com/watch?v=KmVAlebjtmg',
+				},
+				{
+					name: 'UpBeat Jazz',
+					link: 'https://www.youtube.com/watch?v=cZGK-dfSTE4',
+				},
+				{
+					name: 'Tokyo Jazz',
+					link: 'https://www.youtube.com/watch?v=yTpQPs2GUVA',
+				},
+			],
+		},
+		{
 			icon: 'shopping-bag',
-			id: '2',
-		links: [
-			{
-				name: 'Amazon',
-				link: 'https://amazon.ca',
-			},
-			{
-				name: 'Memory Express',
-				link: 'https://www.memoryexpress.com',
-			},
-			{
-				name: 'Ebay',
-				link: 'https://ebay.ca',
-			},
-			{
-				name: 'Steam',
-				link: 'https://store.steampowered.com/',
-			},
-		],
-	],
-],
+			id:2
+			links: [
+				{
+					name: 'Amazon',
+					link: 'https://amazon.ca',
+				},
+				{
+					name: 'Memory Express',
+					link: 'https://www.memoryexpress.com',
+				},
+				{
+					name: 'Ebay',
+					link: 'https://ebay.ca',
+				},
+				{
+					name: 'Steam',
+					link: 'https://store.steampowered.com/',
+				},
+			],
+		},
 
 	// Second Links Container
 	secondListsContainer: [
