@@ -145,16 +145,16 @@ const CONFIG = {
 					link: 'https://www.youtube.com/playlist?list=PLdcgBq2eMCShra99iGMUaeIZgReRQUsLu',
 				},
 				{
-					name: 'Hollow Knight',
-					link: 'https://www.youtube.com/watch?v=KmVAlebjtmg',
+					name: 'Covers',
+					link: 'https://www.youtube.com/playlist?list=PLdcgBq2eMCShUUSPmEMhaurP9ceAnS6mH',
 				},
 				{
-					name: 'UpBeat Jazz',
-					link: 'https://www.youtube.com/watch?v=cZGK-dfSTE4',
+					name: 'OST',
+					link: 'https://www.youtube.com/playlist?list=PLdcgBq2eMCSgHr7jj87ebj4v9syfskEcZ',
 				},
 				{
-					name: 'Tokyo Jazz',
-					link: 'https://www.youtube.com/watch?v=yTpQPs2GUVA',
+					name: 'Classic',
+					link: 'https://www.youtube.com/playlist?list=PLdcgBq2eMCSijNBcy5ldD7qsWnYLpuJOM',
 				},
 			],
 		},
